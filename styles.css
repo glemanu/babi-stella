@@ -1400,13 +1400,13 @@ video {
   }
 
   .topbar {
-    left: max(1rem, 5vw);
-    right: max(1rem, 5vw);
+    left: max(1rem, 7vw);
+    right: max(1rem, 7vw);
     width: auto;
   }
 
   .contact-header {
-    width: calc(100% - (max(1rem, 5vw) * 2));
+    width: calc(100% - (max(1rem, 7vw) * 2));
   }
 
   .topbar .brand,
